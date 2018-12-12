@@ -73,18 +73,17 @@ Eclipse:
 
 gradle:
 
-```groovy
-compile 'com.rengwuxian.materialedittext:library:2.1.4'
+```groovy 
+implementation 'com.github.fa-hessari:MaterialEditText:2.1.4'
 ```
 
 Maven:
 ```xml
 <dependency>
-  <groupId>com.rengwuxian.materialedittext</groupId>
-  <artifactId>library</artifactId>
-  <version>2.1.4</version>
-  <type>aar</type>
-</dependency>
+	    <groupId>com.github.fa-hessari</groupId>
+	    <artifactId>MaterialEditText</artifactId>
+	    <version>2.1.4</version>
+	</dependency>
 ```
 
 ## Usage
