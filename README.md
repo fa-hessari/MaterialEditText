@@ -1,6 +1,6 @@
 MaterialEditText
 ================
-[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-MaterialEditText-brightgreen.svg?style=flat)](https://android-arsenal.com/details/1/1085)
+[![](https://jitpack.io/v/fa-hessari/MaterialEditText.svg)](https://jitpack.io/#fa-hessari/MaterialEditText)
 
 > ## NOTE: 2.0 is NOT BACKWARDS COMPATIBLE! See more on [wiki](https://github.com/rengwuxian/MaterialEditText/wiki) or [中文看这里](http://www.rengwuxian.com/post/materialedittext)
 
@@ -74,7 +74,7 @@ Eclipse:
 gradle:
 
 ```groovy 
-implementation 'com.github.fa-hessari:MaterialEditText:2.1.4'
+implementation 'com.github.fa-hessari:MaterialEditText:2.1.5'
 ```
 
 Maven:
@@ -82,7 +82,7 @@ Maven:
 <dependency>
 	    <groupId>com.github.fa-hessari</groupId>
 	    <artifactId>MaterialEditText</artifactId>
-	    <version>2.1.4</version>
+	    <version>2.1.5</version>
 	</dependency>
 ```
 
