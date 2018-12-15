@@ -9,6 +9,9 @@ MaterialEditText
 
 AppCompat v21 makes it easy to use Material Design EditText in our apps, but it's so limited. If you've tried that, you know what I mean. So I wrote MaterialEditText, the EditText in Material Design, with more features that [Google Material Design Spec](http://www.google.com/design/spec/components/text-fields.html) has introduced.
 
+## Attention
+This library is a forked version of the rengwuxian/materialedittext library but it supports AndroidX too.The minimumSDK was changed to 14 and the compileSDK was changed to 28.
+
 ## Features
 1. **Basic**
 
@@ -61,15 +64,6 @@ AppCompat v21 makes it easy to use Material Design EditText in our apps, but it'
 8. **Material Design Icon**
 
   ![MaterialDesignIcon](./images/material_design_icon.png)
-
-## Sample
-
-[MaterialEditText-2.1.4-sample.apk](https://github.com/rengwuxian/MaterialEditText/releases/download/2.1.4/MaterialEditText-2.1.4-sample.apk)
-  
-## Download
-
-Eclipse:
-[MaterialEditText-2.1.4.aar](https://github.com/rengwuxian/MaterialEditText/releases/download/2.1.4/MaterialEditText-2.1.4.aar)
 
 gradle:
 
